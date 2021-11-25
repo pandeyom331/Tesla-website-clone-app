@@ -27,7 +27,10 @@ https://user-images.githubusercontent.com/54907469/143397189-64eec66b-aa15-415c-
 
 ## Installation :wrench:
 
-First you need to install Expo Go app from Play Store and then click on the button <b> Open in Expo Go .</b>
+<li>First you need to install <b>Expo Go app</b> from <b>Play Store.</b></li> 
+<li>Then click on the button <b> Open in Expo Go .</b> which provided in the link below :-</li>
+<br>
+  https://expo.dev/@pandeyom331/Tesla
 
 ## License :memo:
 
